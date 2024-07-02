@@ -1,3 +1,5 @@
+# Node.js backend of ATS prototype
+
 ## Setup
 Make sure to install the dependencies:
 ## npm

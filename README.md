@@ -27,3 +27,18 @@ Start is done with:
 npm run dev
 
 Default (see above) will be on `http://localhost:3000`
+
+## All Repositories needed to build ATS:
+https://github.com/linus-norden/mosquitto-UNIX-time
+
+https://github.com/linus-norden/ATS-ESP32-BLEScan
+
+https://github.com/linus-norden/ATS-ESP32-WiFiMesh
+
+https://github.com/linus-norden/ATS-WebApp-Frontend
+
+https://github.com/linus-norden/ATS-WebApp-Backend
+
+https://github.com/linus-norden/ATS-Python-Microservice
+
+https://github.com/linus-norden/ATS-SQL-DB

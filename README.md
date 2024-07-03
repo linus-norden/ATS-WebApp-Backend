@@ -1,5 +1,9 @@
 # Node.js backend of ATS prototype
 
+
+This repository contains files that were developed as part of a bachelor's thesis about Asset Tracking in Hospitals written in German.
+For this reason, many of the variable names and comments are written in German.
+
 ## Setup
 Make sure to install the dependencies:
 ## npm

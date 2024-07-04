@@ -14,5 +14,4 @@ logs
 .DS_Store
 .fleet
 .idea.vscode
-package-lock.json
 yarn.lock
